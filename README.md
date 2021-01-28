@@ -1,2 +1,2 @@
-# muzaffarpurworld.github.com
+# muzaffarpurworld.github.io
 the website for web design for everyone
